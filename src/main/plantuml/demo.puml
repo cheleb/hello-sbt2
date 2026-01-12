@@ -1,0 +1,9 @@
+@startuml diagram name
+
+participant Me
+participant You
+
+Me -> You : <3 Hello I love you
+You -> Me : Hello, too
+
+@enduml
