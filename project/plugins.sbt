@@ -1,1 +1,1 @@
-addSbtPlugin("dev.cheleb" % "sbt-plantuml" % "0.3.3")
+addSbtPlugin("dev.cheleb" % "sbt-plantuml" % "0.3.5")
